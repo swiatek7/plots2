@@ -56,7 +56,7 @@
     "leaflet-spin": "1.1.0",
     "marked": "chjj/marked#0.3.2",
     "megamark": "bevacqua/megamark#~3.3.0",
-    "moment": "~> 2.19.3",
+    "moment": "~> 2.24.0",
     "noty": "3.1.4",
     "phantomjs-prebuilt": "^2.1.16",
     "publiclab-editor": "^1.9.0",
