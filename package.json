@@ -34,7 +34,7 @@
     "d3-bower": "mbostock-bower/d3-bower#~3.5",
     "d3-plugins": "d3/d3-plugins#*",
     "file-saver": "eligrey/FileSaver.js#*",
-    "flot": "flot/flot#~0.7",
+    "flot": "~2.1",
     "font-awesome": "FortAwesome/Font-Awesome#~4.5.0",
     "fontawesome": "FortAwesome/Font-Awesome#~4.5.0",
     "horsey": "bevacqua/horsey#3.0.0",
